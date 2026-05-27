@@ -93,7 +93,7 @@
     "bestTimeSummer": "Summer: Cooler in the mornings and evenings, avoid midday heat",
     "bestTimeAutumn": "Autumn: Mild weather, perfect for leisurely walks",
     "bestTimeWinter": "Winter: Fewer tourists, quiet appreciation of the monuments",
-    "tip": "Be sure to check the official website or contact officials for the latest opening hours and holiday schedules before your trip."
+    "tip": "Please note that specific opening hours may vary depending on the season and holidays. It is recommended to plan your visit accordingly."
   },
   "tickets": {
     "title": "Admission Information",
@@ -102,7 +102,7 @@
     "parking": "Parking",
     "parkingPrice": "Paid public parking available nearby",
     "guided": "Guided Tours",
-    "guidedPrice": "Official or third-party paid guided tours available"
+    "guidedPrice": "In-depth paid guided tours available in multiple languages"
   },
   "transport": {
     "title": "How to Get Here",

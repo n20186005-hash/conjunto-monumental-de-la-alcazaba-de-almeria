@@ -93,7 +93,7 @@
     "bestTimeSummer": "Verano: Más fresco por las mañanas y tardes, evite el calor del mediodía",
     "bestTimeAutumn": "Otoño: Clima templado, perfecto para paseos tranquilos",
     "bestTimeWinter": "Invierno: Menos turistas, apreciación tranquila de los monumentos",
-    "tip": "Asegúrese de consultar el sitio web oficial o contactar con las autoridades para conocer los horarios de apertura y festivos más recientes antes de su viaje."
+    "tip": "Tenga en cuenta que los horarios de apertura específicos pueden variar según la temporada y los días festivos. Se recomienda planificar su visita en consecuencia."
   },
   "tickets": {
     "title": "Información de Entradas",
@@ -102,7 +102,7 @@
     "parking": "Aparcamiento",
     "parkingPrice": "Aparcamiento público de pago disponible en las inmediaciones",
     "guided": "Visitas Guiadas",
-    "guidedPrice": "Visitas guiadas de pago oficiales o de terceros disponibles"
+    "guidedPrice": "Visitas guiadas de pago en profundidad disponibles en varios idiomas"
   },
   "transport": {
     "title": "Cómo Llegar",
