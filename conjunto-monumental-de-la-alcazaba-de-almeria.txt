@@ -16,9 +16,30 @@ RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain
 https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7
 
 
+国家 / 地区 *	Spain（西班牙）
+地址行 1*	C. Almanzor, s/n, Conjunto Monumental de la Alcazaba de Almería
+地址行 2	（留空即可，或填 RGRH+6W）
+城市 *	Almería（阿尔梅里亚）
+省 / 自治区 / 直辖市 *	Andalucía（安达卢西亚）
+邮政编码 *	04002
+
+
+
+买域名推荐
+
+
+alcazabadealmeria.com
+
+我们网站是alcazabadealmeria.com
+检查下有没有错误
+
+
+
+
+
 
 首屏背景图要引用以下
-C:\Users\Administrator\Downloads\西班牙\conjunto-monumental-de-la-alcazaba-de-almeria\public\gallery
+C:\Users\Administrator\Documents\GitHub\conjunto-monumental-de-la-alcazaba-de-almeria\public\gallery
 
 
 删除原先友情链接，新增以下友情链接

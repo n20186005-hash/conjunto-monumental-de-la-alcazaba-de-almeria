@@ -4,24 +4,25 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/rose-valley-park (1).jpg', alt: 'Rose Valley Park Photo 1' },
-  { src: '/gallery/rose-valley-park (2).jpg', alt: 'Rose Valley Park Photo 2' },
-  { src: '/gallery/rose-valley-park (3).jpg', alt: 'Rose Valley Park Photo 3' },
-  { src: '/gallery/rose-valley-park (4).jpg', alt: 'Rose Valley Park Photo 4' },
-  { src: '/gallery/rose-valley-park (5).jpg', alt: 'Rose Valley Park Photo 5' },
-  { src: '/gallery/rose-valley-park (6).jpg', alt: 'Rose Valley Park Photo 6' },
-  { src: '/gallery/rose-valley-park (7).jpg', alt: 'Rose Valley Park Photo 7' },
-  { src: '/gallery/rose-valley-park (8).jpg', alt: 'Rose Valley Park Photo 8' },
-  { src: '/gallery/rose-valley-park (9).jpg', alt: 'Rose Valley Park Photo 9' },
-  { src: '/gallery/rose-valley-park (10).jpg', alt: 'Rose Valley Park Photo 10' },
-  { src: '/gallery/rose-valley-park (11).jpg', alt: 'Rose Valley Park Photo 11' },
-  { src: '/gallery/rose-valley-park (12).jpg', alt: 'Rose Valley Park Photo 12' },
-  { src: '/gallery/rose-valley-park (13).jpg', alt: 'Rose Valley Park Photo 13' },
-  { src: '/gallery/rose-valley-park (14).jpg', alt: 'Rose Valley Park Photo 14' },
-  { src: '/gallery/rose-valley-park (15).jpg', alt: 'Rose Valley Park Photo 15' },
-  { src: '/gallery/rose-valley-park (16).jpg', alt: 'Rose Valley Park Photo 16' },
-  { src: '/gallery/rose-valley-park (17).jpg', alt: 'Rose Valley Park Photo 17' },
-  { src: '/gallery/rose-valley-park (18).jpg', alt: 'Rose Valley Park Photo 18' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (1).jpg', alt: 'Alcazaba of Almería Photo 1' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (2).jpg', alt: 'Alcazaba of Almería Photo 2' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (3).jpg', alt: 'Alcazaba of Almería Photo 3' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (4).jpg', alt: 'Alcazaba of Almería Photo 4' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (5).jpg', alt: 'Alcazaba of Almería Photo 5' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (6).jpg', alt: 'Alcazaba of Almería Photo 6' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (7).jpg', alt: 'Alcazaba of Almería Photo 7' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (8).jpg', alt: 'Alcazaba of Almería Photo 8' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (9).jpg', alt: 'Alcazaba of Almería Photo 9' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (10).jpg', alt: 'Alcazaba of Almería Photo 10' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (11).jpg', alt: 'Alcazaba of Almería Photo 11' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (12).jpg', alt: 'Alcazaba of Almería Photo 12' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (13).jpg', alt: 'Alcazaba of Almería Photo 13' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (14).jpg', alt: 'Alcazaba of Almería Photo 14' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (15).jpg', alt: 'Alcazaba of Almería Photo 15' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (16).jpg', alt: 'Alcazaba of Almería Photo 16' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (17).jpg', alt: 'Alcazaba of Almería Photo 17' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (18).jpg', alt: 'Alcazaba of Almería Photo 18' },
+  { src: '/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (19).jpg', alt: 'Alcazaba of Almería Photo 19' },
 ];
 
 export default function Gallery() {
@@ -131,8 +132,8 @@ export default function Gallery() {
                 </button>
               )}
               <a
-                href="https://maps.app.goo.gl/ESqwpkmxEvqJTDvm7"
-                target="_blank"
+              href="https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
+              target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"
                 style={{ color: 'var(--accent)' }}

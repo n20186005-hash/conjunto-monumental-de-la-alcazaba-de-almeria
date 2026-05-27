@@ -25,21 +25,21 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Valea+Trandafirilor+Chișinău+Moldova&output=embed"
+            src="https://maps.google.com/maps?q=Conjunto+Monumental+de+la+Alcazaba+de+Almería&output=embed"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Rose Valley Park"
+            title="Google Maps - Alcazaba of Almería"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/ESqwpkmxEvqJTDvm7"
+            href="https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"

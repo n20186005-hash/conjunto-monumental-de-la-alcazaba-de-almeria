@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Rose Valley Park",
-    "description": "Complete guide to Rose Valley Park in Chișinău. Learn about this scenic spot, its location, visiting information, and travel tips."
+    "title": "Conjunto Monumental de la Alcazaba de Almería",
+    "description": "Complete travel guide to the Alcazaba of Almería. Learn about this iconic Moorish fortress in Andalusia, Spain, including location and visitor information."
   },
   "header": {
     "home": "Home",
@@ -11,154 +11,151 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Rose Valley Park",
-    "subtitle": "Park · Chișinău",
+    "title": "Alcazaba of Almería",
+    "subtitle": "Monument · Almería",
     "rating": "4.6",
-    "reviewCount": "19,089 reviews",
-    "type": "Park",
+    "reviewCount": "15,710 reviews",
+    "type": "Castle",
     "openMaps": "View on Google Maps",
-    "mapsLink": "https://maps.app.goo.gl/ESqwpkmxEvqJTDvm7"
+    "mapsLink": "https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
   },
   "intro": {
-    "title": "Discover Rose Valley Park",
-    "description": "Rose Valley Park (Parcul „Valea Trandafirilor”) is one of the most beautiful and well-known recreational areas in Chișinău, Moldova. Located along the Bâc River, the park offers a relaxing atmosphere, perfect for walks, picnics, and outdoor activities. It is a favorite spot for both locals and tourists.",
+    "title": "Discover the Alcazaba",
+    "description": "The Conjunto Monumental de la Alcazaba de Almería is one of the largest surviving Moorish fortresses in Spain. Located in Almería, Andalusia, this magnificent monumental complex boasts a rich history and overlooks the city and the Mediterranean Sea, offering an immersive historical and cultural experience.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The park is accessible year-round and admission is free.",
-        "Great place for a picnic or a relaxing walk on the picturesque alleys.",
-        "Provides excellent views of the lake and abundant vegetation."
+        "Wear comfortable walking shoes as the fortress has many cobblestone paths and stairs.",
+        "During summer, protect yourself from the sun and visit early morning or late afternoon to avoid the heat.",
+        "The fortress provides excellent panoramic views of the city of Almería and its port."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Valea Trandafirilor Lake",
-        "Picturesque alleys",
-        "Picnic areas",
-        "Abundant vegetation"
+        "Moorish walls and towers",
+        "Picturesque Islamic gardens",
+        "Panoramic city views",
+        "Historical archaeological site"
       ]
     }
   },
   "knowledge": {
-    "title": "About Rose Valley Park",
+    "title": "About the Alcazaba",
     "sections": [
       {
         "id": "history",
         "title": "Historical Background",
-        "content": "Rose Valley Park was established in the 20th century and quickly became one of the main recreational attractions in Chișinău. Its name comes from the rich rose plantations that were planted here, transforming the area into a true floral paradise."
+        "content": "The Alcazaba was ordered to be built in the 10th century by Abd al-Rahman III, the ruler of Al-Andalus. It was initially not only a military fortress but also the local political and administrative center, witnessing Almería's prosperity during Islamic rule."
       },
       {
         "id": "layout",
-        "title": "Geography & Layout",
-        "content": "The park is located near the center of Chișinău and stretches along the Bâc River. The layout includes pedestrian alleys, benches, relaxation areas, and a picturesque lake where visitors can relax and enjoy nature."
+        "title": "Architecture & Layout",
+        "content": "The castle is divided into three main enclosures: the first enclosure was once a civilian residential area and is now a beautiful garden; the second enclosure was the historical core, containing ruins of palaces, baths, and mosques; the third enclosure is a defensive fortress added by the Catholic Monarchs after the Reconquista."
       },
       {
         "id": "culture",
         "title": "Cultural Significance",
-        "content": "As one of the most popular recreational places in Moldova's capital, the park often hosts cultural events, festivals, and outdoor activities, being an important meeting point for the local community."
+        "content": "As an important cultural heritage of Andalusia (BIC), the Alcazaba blends Islamic and Christian architectural styles. It is not only a symbol of the local area but has also served as a filming location for famous movies and TV series (such as Game of Thrones)."
       },
       {
-        "id": "biodiversity",
-        "title": "Ecology & Flora",
-        "content": "The park hosts an impressive variety of plant species, including numerous rose varieties, ornamental trees, and spontaneous flora. Many bird species find shelter here, making it an important urban refuge for biodiversity."
-      },
-      {
-        "id": "facilities",
-        "title": "Recreation & Sports Facilities",
-        "content": "The park features multiple modern children's playgrounds, outdoor fitness equipment, and sports fields. Visitors can also find several cafes and restaurants offering traditional Moldovan cuisine and various beverages, allowing you to enjoy convenient services while exploring nature."
+        "id": "preservation",
+        "title": "Archaeology & Preservation",
+        "content": "This is a key protected historical heritage of the Andalusian region. Successive archaeological excavations continue to reveal the rich historical strata of this complex, and the government carries out ongoing restoration projects to protect these precious monuments."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Parcul „Valea Trandafirilor”",
+    "officialNameValue": "Conjunto Monumental de la Alcazaba de Almería",
     "type": "Attraction Type",
-    "typeValue": "Park",
+    "typeValue": "Castle / Historical Monument",
     "country": "Country",
-    "countryValue": "Moldova",
+    "countryValue": "Spain",
     "city": "City",
-    "cityValue": "Chișinău",
+    "cityValue": "Almería",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (19,089)",
+    "googleRatingValue": "4.6 (15,710)",
     "address": "Address",
-    "addressValue": "Strada Valea Trandafirilor, Chișinău, Moldova",
+    "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
     "plusCode": "Plus Code",
-    "plusCodeValue": "2V33+37 Chișinău, Moldova"
+    "plusCodeValue": "RGRH+6W Almería, Spain",
+    "phone": "Phone",
+    "phoneValue": "+34 950 80 10 08"
   },
   "hours": {
     "title": "Visiting Hours",
     "park": "Site Access",
-    "parkTime": "Open year-round (24 hours a day)",
+    "parkTime": "Open Tuesday to Sunday (hours vary by season, closed on Mondays)",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Roses and flowers blooming",
-    "bestTimeSummer": "Summer: Sunny days, great for picnics and outdoor activities",
-    "bestTimeAutumn": "Autumn: Beautiful foliage and relaxing atmosphere",
-    "bestTimeWinter": "Winter: Picturesque winter landscapes",
-    "tip": "The park is open 24/7, accessible at any time of the day."
+    "bestTimeSpring": "Spring: Pleasant weather, gardens in bloom",
+    "bestTimeSummer": "Summer: Cooler in the mornings and evenings, avoid midday heat",
+    "bestTimeAutumn": "Autumn: Mild weather, perfect for leisurely walks",
+    "bestTimeWinter": "Winter: Fewer tourists, quiet appreciation of the monuments",
+    "tip": "Be sure to check the official website or contact officials for the latest opening hours and holiday schedules before your trip."
   },
   "tickets": {
     "title": "Admission Information",
     "park": "Site Visit",
-    "parkPrice": "Free admission",
+    "parkPrice": "Free for EU citizens, other visitors typically pay a nominal fee (around 1.5 EUR)",
     "parking": "Parking",
-    "parkingPrice": "Parking available nearby (free or paid)",
+    "parkingPrice": "Paid public parking available nearby",
     "guided": "Guided Tours",
-    "guidedPrice": "Self-guided"
+    "guidedPrice": "Official or third-party paid guided tours available"
   },
   "transport": {
     "title": "How to Get Here",
-    "fromCenter": "From Chișinău Center",
-    "fromCenterDesc": "The park is within accessible walking distance from the city center.",
-    "fromStation": "From Bus Station",
-    "fromStationDesc": "Accessible by local public transport, with stops nearby.",
+    "fromCenter": "From Almería Center",
+    "fromCenterDesc": "The fortress is located above the old town, within walking distance from the city center, though it involves an uphill climb.",
+    "fromStation": "From Train/Bus Station",
+    "fromStationDesc": "About 2 km from Almería Central Station, accessible by municipal bus or taxi.",
     "fromAirport": "From Airport",
-    "fromAirportDesc": "From Chișinău International Airport, you can take a taxi or public transport to the city center.",
+    "fromAirportDesc": "About 10 km from Almería Airport, it is recommended to take a taxi or airport bus to the city center and transfer.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Well connected by Chișinău public transport network, with stops nearby.",
+    "publicTransportDesc": "Several local bus lines stop near the fortress.",
     "walking": "Walking",
-    "walkingDesc": "Accessible on foot from multiple areas of the city, being centrally located.",
+    "walkingDesc": "Walk through the historical Medina alleys for unique scenery.",
     "driving": "Driving",
-    "drivingDesc": "Accessible by car, with parking options nearby."
+    "drivingDesc": "Streets around the fortress are narrow; it is recommended to park in public lots in the city and walk."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Take a leisurely stroll through the park and surroundings.",
+    "overview": "Journey through the three enclosures and experience the evolution of history.",
     "steps": [
-      "Start at the main entrance of the park",
-      "Admire the Valea Trandafirilor Lake",
-      "Walk along the picturesque alleys among roses",
-      "Stop at the picnic areas for relaxation",
-      "Enjoy the view of vegetation and water"
+      "Enter through the main gate and walk through the beautiful gardens of the first enclosure",
+      "Enter the second enclosure to explore the palace ruins and Islamic cisterns",
+      "Climb the Muro de la Vela for a panoramic view of the city",
+      "Enter the third enclosure to see the solid fortress built during the Catholic Monarchs' era",
+      "Enjoy the view of the harbor and the Mediterranean Sea from the north wall viewpoint"
     ]
   },
   "photoSpots": {
     "title": "Top Photo Spots",
     "spots": [
       {
-        "title": "Valea Trandafirilor Lake",
-        "description": "The picturesque lake in the middle of the park offers excellent landscape photography opportunities, especially during sunrise or sunset.",
-        "location": "Center of the park",
-        "image": "/gallery/rose-valley-park (1).jpg"
+        "title": "First Enclosure Gardens",
+        "description": "A perfect background featuring Islamic-style pools and lush vegetation.",
+        "location": "First Enclosure",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (1).jpg"
       },
       {
-        "title": "Rose Alleys",
-        "description": "Alleys bordered by blooming roses offer a perfect frame for spring and summer photography.",
-        "location": "Throughout the park",
-        "image": "/gallery/rose-valley-park (2).jpg"
+        "title": "Muro de la Vela Viewpoint",
+        "description": "From here, capture Almería's iconic white walls and the blue Mediterranean Sea.",
+        "location": "Between the Second and Third Enclosures",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (2).jpg"
       },
       {
-        "title": "Picnic Areas",
-        "description": "The landscaped picnic areas offer a relaxing frame for group photos or portraits.",
-        "location": "In the park",
-        "image": "/gallery/rose-valley-park (3).jpg"
+        "title": "Third Enclosure Main Tower",
+        "description": "The magnificent Christian-style tower showcases the spectacular military defenses.",
+        "location": "Third Enclosure",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (3).jpg"
       },
       {
-        "title": "Vegetation Viewpoint",
-        "description": "The abundant vegetation and old trees create a perfect natural frame for nature photos.",
-        "location": "Throughout the park",
-        "image": "/gallery/rose-valley-park (4).jpg"
+        "title": "Ancient Wall Ruins",
+        "description": "Capture the weight of history and magnificent sunsets along the winding ancient walls.",
+        "location": "Outer Perimeter",
+        "image": "/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (4).jpg"
       }
     ]
   },
@@ -166,49 +163,45 @@
     "title": "Accommodation Guide",
     "hotels": [
       {
-        "name": "Chișinău Center",
-        "desc": "The central area of Chișinău offers easy access to Rose Valley Park, with numerous hotels, restaurants, and shops nearby.",
+        "name": "Almería Old Town",
+        "desc": "Staying in the old town allows for easy walking access to the fortress, surrounded by authentic Tapas bars.",
         "price": "Recommended"
       },
       {
-        "name": "Buiucani Area",
-        "desc": "A quiet and picturesque neighborhood, located near the park, ideal for those seeking peace and fresh air.",
+        "name": "Near Paseo Marítimo",
+        "desc": "If you love sea views and beaches, this is an ideal choice, just a short drive from the fortress.",
         "price": "Recommended"
       },
       {
-        "name": "Riscani Area",
-        "desc": "Located near the park, this area offers diverse accommodation options, from budget hotels to premium apartments.",
-        "price": "Recommended"
-      },
-      {
-        "name": "Center Area (Great National Assembly Square)",
-        "desc": "The heart of the capital, close to main tourist attractions and within accessible walking distance to Rose Valley Park.",
+        "name": "City Center Commercial District",
+        "desc": "Offers modern hotel facilities and convenient transport, perfect for shopping and urban exploration.",
         "price": "Recommended"
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Scenic Views of Rose Valley Park",
+    "subtitle": "Spectacular Views of the Alcazaba",
     "captions": [
-      "Lake view",
-      "Blooming roses",
-      "Picturesque alleys",
-      "Picnic areas",
-      "Abundant vegetation",
-      "Summer views",
-      "Autumn foliage",
-      "Winter landscapes",
-      "Spring flowers",
-      "Park benches",
-      "Ornamental trees",
-      "Sunset",
-      "Quiet morning",
-      "Abundant nature",
-      "Diverse flora",
-      "Park landscapes",
-      "Pedestrian alleys",
-      "Panoramic view"
+      "Fortress panorama",
+      "First enclosure gardens",
+      "Moorish walls",
+      "Ancient towers",
+      "Islamic pools",
+      "City overview",
+      "Third enclosure fortress",
+      "Historical ruins",
+      "Sunset glow",
+      "Palace ruins",
+      "Ancient gates",
+      "Harbor scenery",
+      "Mottled stone walls",
+      "Solid defenses",
+      "Winding paths",
+      "Bell tower view",
+      "Mediterranean sea view",
+      "Night illumination",
+      "Peaceful courtyards"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -216,66 +209,66 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "declaration": "Reviews can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
-        "name": "Ion P.",
+        "name": "Carlos M.",
         "rating": 5,
         "date": "2026-04-12",
-        "text": "Absolutely one of the most beautiful parks in Chișinău. I always come here to relax and take walks. It's a wonderful place for family and friends."
+        "text": "A spectacular historical monument, very well preserved. The views of Almería from the top are unbeatable."
       },
       {
-        "name": "Maria L.",
+        "name": "Laura G.",
         "rating": 5,
         "date": "2026-03-28",
-        "text": "Perfect place for picnics and walks. The vegetation is superb, and the lake adds a note of peace and beauty to the place."
+        "text": "The gardens in the first enclosure are stunning; the water features and plants are very calming. Absolutely worth a visit!"
       },
       {
-        "name": "Andrei M.",
+        "name": "David R.",
         "rating": 4,
         "date": "2026-05-01",
-        "text": "A beautiful and well-maintained park. Ideal for evening or morning walks. I warmly recommend it to everyone visiting Chișinău."
+        "text": "Deep historical significance. The climb is a bit tiring, but seeing the third enclosure's fortress and the sea makes it all worthwhile."
       },
       {
-        "name": "Elena K.",
+        "name": "Sarah W.",
         "rating": 5,
         "date": "2026-02-15",
-        "text": "Being a nature lover, I was deeply impressed by the diversity of flowers and roses in this park. A true corner of paradise in the middle of the city."
+        "text": "One of the most magnificent Moorish castles I've seen in Andalusia. Not as crowded as Granada, making for a great experience."
       },
       {
-        "name": "Vasile T.",
+        "name": "Antonio V.",
         "rating": 5,
         "date": "2025-10-22",
-        "text": "Excellent place for family walks. The alleys are well maintained, and the atmosphere is very relaxing. I visit it every weekend."
+        "text": "Highly recommended for history and architecture lovers. The fact that Game of Thrones was filmed here is also a fun highlight."
       },
       {
-        "name": "Oxana R.",
+        "name": "Elena P.",
         "rating": 5,
         "date": "2025-08-09",
-        "text": "Compared to the hustle and bustle of the center, this park offers a quiet refuge. The feeling of peace and abundant greenery makes it one of my favorite places."
+        "text": "Remember to bring water if visiting in summer. The views are breathtaking, and the whole complex makes you feel the prosperity of a thousand years ago."
       }
     ]
   },
   "mapSection": {
     "title": "Map Location",
-    "subtitle": "Strada Valea Trandafirilor, Chișinău, Moldova",
+    "subtitle": "C. Almanzor, s/n, 04002 Almería, Spain",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "brandName": "Rose Valley Park",
-    "brandSubtitle": "Park · Chișinău",
-    "rights": "© 2026 Rose Valley Park Independent Tourism Research Association · All Rights Reserved.",
+    "brandName": "Alcazaba of Almería",
+    "brandSubtitle": "Historical Monument · Almería",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "cultureMinistry": "Ministry of Culture of Moldova",
-      "tourismAgency": "Tourism Agency",
-      "monumentsInspection": "Monuments Inspection",
-      "chisinauCityHall": "Chișinău City Hall",
-      "chisinauProjects": "Chișinău Projects"
+      "spain": "Spain Tourism Board",
+      "andalucia": "Andalusia Tourism Board",
+      "almeriaProvince": "Almería Province Tourism",
+      "almeriaCity": "Almería City Tourism",
+      "iaph": "Andalusian Institute of Historical Heritage"
     },
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
@@ -303,7 +296,7 @@
     "sections": [
       {
         "title": "Website Content and Use",
-        "content": "This website provides travel, transportation, and historical information about Rose Valley Park. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+        "content": "This website provides travel, transportation, and historical information about the Alcazaba of Almería. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time; please refer to official announcements."
       },
       {
         "title": "Intellectual Property",
@@ -335,7 +328,7 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Rose Valley Park",
-    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) is a major urban park in Chișinău, Moldova, being a perfect example of combining nature with urban recreation. The area is jointly managed for ecological protection and daily operations by the Chișinău City Hall and related landscaping and environmental departments."
+    "title": "About the Alcazaba",
+    "text": "The Conjunto Monumental de la Alcazaba de Almería is an important monument directly administered by the region of Andalusia, Spain. This cultural heritage is strictly protected and managed daily by the Regional Government of Andalusia and local historical heritage agencies."
   }
 }

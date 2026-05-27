@@ -8,8 +8,8 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/rose-valley-park (1).jpg"
-          alt="Rose Valley Park"
+          src="/gallery/conjunto-monumental-de-la-alcazaba-de-almeria (1).jpg"
+          alt="Alcazaba of Almería"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -42,7 +42,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('type')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/ESqwpkmxEvqJTDvm7"
+              href="https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

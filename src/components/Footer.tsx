@@ -25,20 +25,20 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </h3>
             <div className="flex flex-col gap-2">
-              <a href="https://mc.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '摩尔多瓦共和国文化部' : locale === 'ro' ? 'Ministerul Culturii al RM' : 'Ministry of Culture of Moldova'}
+              <a href="https://www.spain.info/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.spain')}
               </a>
-              <a href="https://turism.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '摩尔多瓦国家旅游' : locale === 'ro' ? 'Agenția Turismului' : 'Tourism Agency of Moldova'}
+              <a href="https://www.andalucia.org/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.andalucia')}
               </a>
-              <a href="https://airm.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '摩尔多瓦古迹检查' : locale === 'ro' ? 'Inspecția Monumentelor' : 'Monuments Inspection of Moldova'}
+              <a href="https://turismoalmeria.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.almeriaProvince')}
               </a>
-              <a href="https://www.chisinau.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '基希讷乌市政厅' : locale === 'ro' ? 'Primăria Chișinău' : 'Chișinău City Hall'}
+              <a href="https://www.turismodealmeria.org/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.almeriaCity')}
               </a>
-              <a href="https://proiecte.chisinau.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '基希讷乌市政项目与旅游' : locale === 'ro' ? 'Proiecte Chișinău' : 'Chișinău Projects & Tourism'}
+              <a href="https://guiadigital.iaph.es/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.iaph')}
               </a>
             </div>
           </div>
